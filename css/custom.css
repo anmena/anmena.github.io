@@ -2,12 +2,12 @@ div.container{
   padding-top: 150px;
 }
 
-h2{
-  padding-top: 50px;
+h4 {
+  color:#2D2D2C;
 }
 
 body{
-  background-color: #E5DAEF;
+  background-color: #EEEBE9;
 }
 
 nav{
@@ -15,28 +15,15 @@ nav{
 }
 
 a {
-  color: #111111;
+  color: #2D2D2C;
   text-decoration: none;
  }
+
 a:hover {
-  color: #111111;
+  color: #2D2D2C;
   text-decoration: none;
  }
 
-/*
-@media (min-width: 1000px) {
-  .thumb {
-    padding-left: 50px;
-  }
-}*/
-
-/*@media (min-width: 750px) {
-  .thumb {
-    padding-left: 50px;
-  }
-}*/
-
-/* Larger than phablet */
 @media (min-width: 550px) {
   .thumb {
     padding-left: 50px;
@@ -54,5 +41,5 @@ img.center {
   text-align: center;
   }
 
-#container_12 a {color: #E5DAEF;}
+#container_12 a {color: #EEEBE9;}
 #container_12 a {text-decoration: none;}
